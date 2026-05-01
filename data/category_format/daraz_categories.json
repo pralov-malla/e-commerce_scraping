@@ -1,0 +1,525 @@
+{
+  "marketplace_key": "daraz",
+  "marketplace": "https://www.daraz.com.np",
+  "source_file": "data/daraz/daraz_kids_products.json",
+  "source_status": "finished",
+  "generated_at": "2026-05-01T09:09:19+00:00",
+  "format": "category_tree_only",
+  "summary": {
+    "main_category_count": 4,
+    "total_category_count": 33,
+    "leaf_category_count": 26,
+    "max_depth": 3
+  },
+  "main_categories": [
+    {
+      "name": "Mother & Baby",
+      "url": "https://www.daraz.com.np/catalog/?q=mother+baby&page=1",
+      "path": [
+        "Daraz Kids",
+        "Mother & Baby"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 3,
+      "is_leaf": false,
+      "subcategories": [
+        {
+          "name": "Baby Gear",
+          "url": "https://www.daraz.com.np/catalog/?q=baby+gear&page=1",
+          "path": [
+            "Daraz Kids",
+            "Mother & Baby",
+            "Baby Gear"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 5,
+          "is_leaf": false,
+          "subcategories": [
+            {
+              "name": "Strollers & Prams",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+stroller+pram&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Baby Gear",
+                "Strollers & Prams"
+              ],
+              "depth": 3,
+              "product_count": 119,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            },
+            {
+              "name": "Baby Car Seats",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+car+seat&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Baby Gear",
+                "Baby Car Seats"
+              ],
+              "depth": 3,
+              "product_count": 31,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            },
+            {
+              "name": "Baby Carriers",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+carrier&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Baby Gear",
+                "Baby Carriers"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            },
+            {
+              "name": "Walkers",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+walker&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Baby Gear",
+                "Walkers"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            },
+            {
+              "name": "Bouncers & Jumpers",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+bouncer+jumper&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Baby Gear",
+                "Bouncers & Jumpers"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            }
+          ],
+          "status": "done"
+        },
+        {
+          "name": "Nursery",
+          "url": "https://www.daraz.com.np/catalog/?q=nursery+baby&page=1",
+          "path": [
+            "Daraz Kids",
+            "Mother & Baby",
+            "Nursery"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 3,
+          "is_leaf": false,
+          "subcategories": [
+            {
+              "name": "Cribs & Cradles",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+crib+cradle&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Nursery",
+                "Cribs & Cradles"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            },
+            {
+              "name": "Baby Bedding",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+bedding+blanket&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Nursery",
+                "Baby Bedding"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            },
+            {
+              "name": "Baby Pillows",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+pillow&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Nursery",
+                "Baby Pillows"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            }
+          ],
+          "status": "done"
+        },
+        {
+          "name": "Baby Clothing",
+          "url": "https://www.daraz.com.np/catalog/?q=baby+clothes&page=1",
+          "path": [
+            "Daraz Kids",
+            "Mother & Baby",
+            "Baby Clothing"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 3,
+          "is_leaf": false,
+          "subcategories": [
+            {
+              "name": "Newborn Clothing",
+              "url": "https://www.daraz.com.np/catalog/?q=newborn+clothes&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Baby Clothing",
+                "Newborn Clothing"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            },
+            {
+              "name": "Baby Shoes",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+shoes&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Baby Clothing",
+                "Baby Shoes"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            },
+            {
+              "name": "Baby Bibs",
+              "url": "https://www.daraz.com.np/catalog/?q=baby+bib&page=1",
+              "path": [
+                "Daraz Kids",
+                "Mother & Baby",
+                "Baby Clothing",
+                "Baby Bibs"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "status": "done"
+            }
+          ],
+          "status": "done"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "name": "Kids Toys",
+      "url": "https://www.daraz.com.np/catalog/?q=kids+toys&page=1",
+      "path": [
+        "Daraz Kids",
+        "Kids Toys"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 6,
+      "is_leaf": false,
+      "subcategories": [
+        {
+          "name": "Learning & Education",
+          "url": "https://www.daraz.com.np/catalog/?q=kids+learning+educational+toys&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Toys",
+            "Learning & Education"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Blocks & Building Toys",
+          "url": "https://www.daraz.com.np/catalog/?q=kids+blocks+building+toys&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Toys",
+            "Blocks & Building Toys"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Dolls & Accessories",
+          "url": "https://www.daraz.com.np/catalog/?q=kids+doll+accessories&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Toys",
+            "Dolls & Accessories"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Puzzle",
+          "url": "https://www.daraz.com.np/catalog/?q=kids+puzzle&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Toys",
+            "Puzzle"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Soft Toys",
+          "url": "https://www.daraz.com.np/catalog/?q=kids+soft+toys&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Toys",
+            "Soft Toys"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Pretend Play",
+          "url": "https://www.daraz.com.np/catalog/?q=kids+pretend+play+toys&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Toys",
+            "Pretend Play"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "name": "Baby & Toddler Toys",
+      "url": "https://www.daraz.com.np/catalog/?q=baby+toddler+toys&page=1",
+      "path": [
+        "Daraz Kids",
+        "Baby & Toddler Toys"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 5,
+      "is_leaf": false,
+      "subcategories": [
+        {
+          "name": "Baby Rattles",
+          "url": "https://www.daraz.com.np/catalog/?q=baby+rattle&page=1",
+          "path": [
+            "Daraz Kids",
+            "Baby & Toddler Toys",
+            "Baby Rattles"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Teethers",
+          "url": "https://www.daraz.com.np/catalog/?q=baby+teether&page=1",
+          "path": [
+            "Daraz Kids",
+            "Baby & Toddler Toys",
+            "Teethers"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Activity Gym & Playmats",
+          "url": "https://www.daraz.com.np/catalog/?q=baby+playmat+activity+gym&page=1",
+          "path": [
+            "Daraz Kids",
+            "Baby & Toddler Toys",
+            "Activity Gym & Playmats"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Bath Toys",
+          "url": "https://www.daraz.com.np/catalog/?q=baby+bath+toys&page=1",
+          "path": [
+            "Daraz Kids",
+            "Baby & Toddler Toys",
+            "Bath Toys"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Kids Tricycles",
+          "url": "https://www.daraz.com.np/catalog/?q=kids+tricycle&page=1",
+          "path": [
+            "Daraz Kids",
+            "Baby & Toddler Toys",
+            "Kids Tricycles"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "name": "Kids Fashion",
+      "url": "https://www.daraz.com.np/catalog/?q=kids+clothing+shoes&page=1",
+      "path": [
+        "Daraz Kids",
+        "Kids Fashion"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 4,
+      "is_leaf": false,
+      "subcategories": [
+        {
+          "name": "Girls Clothing",
+          "url": "https://www.daraz.com.np/catalog/?q=girls+clothing&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Fashion",
+            "Girls Clothing"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Boys Clothing",
+          "url": "https://www.daraz.com.np/catalog/?q=boys+clothing&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Fashion",
+            "Boys Clothing"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Kids Shoes",
+          "url": "https://www.daraz.com.np/catalog/?q=kids+shoes&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Fashion",
+            "Kids Shoes"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        },
+        {
+          "name": "Kids Bags",
+          "url": "https://www.daraz.com.np/catalog/?q=kids+bag+school+bag&page=1",
+          "path": [
+            "Daraz Kids",
+            "Kids Fashion",
+            "Kids Bags"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "status": "done"
+        }
+      ],
+      "status": "done"
+    }
+  ]
+}

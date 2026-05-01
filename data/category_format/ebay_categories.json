@@ -1,0 +1,1844 @@
+{
+  "marketplace_key": "ebay",
+  "marketplace": "https://www.ebay.com",
+  "source_file": "data/eBay/ebay_kids_categories.json",
+  "source_status": "discovering_categories",
+  "generated_at": "2026-05-01T09:09:19+00:00",
+  "format": "category_tree_only",
+  "summary": {
+    "main_category_count": 8,
+    "total_category_count": 109,
+    "leaf_category_count": 104,
+    "max_depth": 4
+  },
+  "main_categories": [
+    {
+      "name": "Baby",
+      "url": "https://www.ebay.com/b/Baby/2984/bn_1865497",
+      "path": [
+        "eBay",
+        "Baby"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "category_id": "2984",
+      "status": "fetch_failed"
+    },
+    {
+      "name": "Kids Clothing, Shoes & Accessories",
+      "url": "https://www.ebay.com/b/Kids-Clothing-Shoes-Accessories/171146/bn_1642843",
+      "path": [
+        "eBay",
+        "Kids Clothing, Shoes & Accessories"
+      ],
+      "depth": 1,
+      "product_count": 250,
+      "subcategory_count": 22,
+      "is_leaf": false,
+      "subcategories": [
+        {
+          "name": "Boys",
+          "url": "https://www.ebay.com/b/Boys-Clothing-Shoes-Accessories/260013/bn_7116391831",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Boys"
+          ],
+          "depth": 2,
+          "product_count": 250,
+          "subcategory_count": 4,
+          "is_leaf": false,
+          "subcategories": [
+            {
+              "name": "Baby Essentials",
+              "url": "https://www.ebay.com/b/Baby-Essentials/2984/bn_1854104",
+              "path": [
+                "eBay",
+                "Kids Clothing, Shoes & Accessories",
+                "Boys",
+                "Baby Essentials"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 33,
+              "is_leaf": false,
+              "subcategories": [
+                {
+                  "name": "Baby",
+                  "url": "https://www.ebay.com/b/Baby-Clothing-Shoes-Accessories/260018/bn_7116420432",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby"
+                  ],
+                  "depth": 4,
+                  "product_count": 250,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "260018",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Baby Gear",
+                  "url": "https://www.ebay.com/b/Baby-Gear/100223/bn_1853362",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Gear"
+                  ],
+                  "depth": 4,
+                  "product_count": 235,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "100223",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Baby Safety & Health",
+                  "url": "https://www.ebay.com/b/Baby-Safety-Health-Products/20433/bn_1865603",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Safety & Health"
+                  ],
+                  "depth": 4,
+                  "product_count": 234,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "20433",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Car Safety Seats",
+                  "url": "https://www.ebay.com/b/Baby-Car-Safety-Seats/66692/bn_1865554",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Car Safety Seats"
+                  ],
+                  "depth": 4,
+                  "product_count": 250,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "66692",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Carriers, Slings & Backpacks",
+                  "url": "https://www.ebay.com/b/Baby-Carriers-Slings-Backpacks/100982/bn_2309335",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Carriers, Slings & Backpacks"
+                  ],
+                  "depth": 4,
+                  "product_count": 250,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "100982",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Feeding",
+                  "url": "https://www.ebay.com/b/Baby-Feeding-Supplies/20400/bn_1865094",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Feeding"
+                  ],
+                  "depth": 4,
+                  "product_count": 187,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "20400",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Nursery Bedding",
+                  "url": "https://www.ebay.com/b/Nursery-Bedding/20416/bn_1853279",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Nursery Bedding"
+                  ],
+                  "depth": 4,
+                  "product_count": 250,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "20416",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Nursery Décor",
+                  "url": "https://www.ebay.com/b/Nursery-Decor/66697/bn_1865340",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Nursery Décor"
+                  ],
+                  "depth": 4,
+                  "product_count": 189,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "66697",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Nursery Furniture",
+                  "url": "https://www.ebay.com/b/Nursery-Furniture/20422/bn_1865331",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Nursery Furniture"
+                  ],
+                  "depth": 4,
+                  "product_count": 250,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "20422",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Other Baby",
+                  "url": "https://www.ebay.com/b/Other-Baby-Products/1261/bn_1849161",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Other Baby"
+                  ],
+                  "depth": 4,
+                  "product_count": 235,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "1261",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Strollers & Accessories",
+                  "url": "https://www.ebay.com/b/Strollers-Accessories/66698/bn_7203747",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Strollers & Accessories"
+                  ],
+                  "depth": 4,
+                  "product_count": 250,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "66698",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Toys for Baby",
+                  "url": "https://www.ebay.com/b/Baby-Toys/19068/bn_1865476",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Toys for Baby"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "19068",
+                  "status": "fetch_failed"
+                },
+                {
+                  "name": "Baby Carriers",
+                  "url": "https://www.ebay.com/b/Baby-Carriers/100982/bn_18300594",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Carriers"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "100982",
+                  "status": "fetch_failed"
+                },
+                {
+                  "name": "Ergobaby Baby Carriers, Slings & Backpacks",
+                  "url": "https://www.ebay.com/b/Ergobaby-Baby-Carriers-Slings-Backpacks/100982/bn_18300609",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Ergobaby Baby Carriers, Slings & Backpacks"
+                  ],
+                  "depth": 4,
+                  "product_count": 250,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "100982",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Tula Nursery Blankets & Throws",
+                  "url": "https://www.ebay.com/b/Tula-Nursery-Blankets-Throws/3081/bn_27364272",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Tula Nursery Blankets & Throws"
+                  ],
+                  "depth": 4,
+                  "product_count": 34,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "3081",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Denim Baby Baby Carriers",
+                  "url": "https://www.ebay.com/b/Denim-Baby-Baby-Carriers/100982/bn_7112572790",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Denim Baby Baby Carriers"
+                  ],
+                  "depth": 4,
+                  "product_count": 98,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "100982",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Ergobaby Carriers for Babies",
+                  "url": "https://www.ebay.com/b/Ergobaby-Carriers-for-Babies/100982/bn_18300728",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Ergobaby Carriers for Babies"
+                  ],
+                  "depth": 4,
+                  "product_count": 191,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "100982",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Tula Carriers for Babies",
+                  "url": "https://www.ebay.com/b/Tula-Carriers-for-Babies/100982/bn_27357403",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Tula Carriers for Babies"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "100982",
+                  "status": "fetch_failed"
+                },
+                {
+                  "name": "Baby Slings",
+                  "url": "https://www.ebay.com/b/Baby-Slings/100982/bn_18300713",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Slings"
+                  ],
+                  "depth": 4,
+                  "product_count": 250,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "100982",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Ergobaby Baby Slings",
+                  "url": "https://www.ebay.com/b/Ergobaby-Baby-Slings/100982/bn_72692315",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Ergobaby Baby Slings"
+                  ],
+                  "depth": 4,
+                  "product_count": 10,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "100982",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "American Baby Company",
+                  "url": "https://www.ebay.com/b/American-Baby-Company-Baby-Essentials/2984/bn_81201007",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "American Baby Company"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Baby Banana",
+                  "url": "https://www.ebay.com/b/Baby-Banana-Baby-Essentials/2984/bn_81201060",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Banana"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Baby Brezza",
+                  "url": "https://www.ebay.com/b/Baby-Brezza-Baby-Essentials/2984/bn_81201014",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Brezza"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Baby Care",
+                  "url": "https://www.ebay.com/b/Baby-Essentials-Baby-Care/2984/bn_81200997",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Care"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Baby Deedee",
+                  "url": "https://www.ebay.com/b/Baby-Deedee-Baby-Essentials/2984/bn_81200945",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Deedee"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Baby Delight",
+                  "url": "https://www.ebay.com/b/Baby-Delight-Baby-Essentials/2984/bn_81201096",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Delight"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Baby Merlin's",
+                  "url": "https://www.ebay.com/b/Baby-Merlins-Baby-Essentials/2984/bn_81201061",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Merlin's"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Baby Trend",
+                  "url": "https://www.ebay.com/b/Baby-Trend-Baby-Essentials/2984/bn_81201030",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Baby Trend"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Blankets & Beyond",
+                  "url": "https://www.ebay.com/b/Baby-Essentials-Blankets-and-Beyond/2984/bn_81201010",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Blankets & Beyond"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Infant Optics",
+                  "url": "https://www.ebay.com/b/Baby-Essentials-Infant-Optics/2984/bn_81200964",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Infant Optics"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Miracle Blanket",
+                  "url": "https://www.ebay.com/b/Baby-Essentials-Miracle-Blanket-s/2984/bn_81201094",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Miracle Blanket"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Onya Baby",
+                  "url": "https://www.ebay.com/b/Baby-Essentials-Onya-Baby/2984/bn_81201077",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Onya Baby"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Safety Baby",
+                  "url": "https://www.ebay.com/b/Baby-Essentials-Baby-Safety/2984/bn_81201079",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Baby Essentials",
+                    "Safety Baby"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "done_leaf"
+                }
+              ],
+              "category_id": "2984",
+              "status": "done_with_children"
+            },
+            {
+              "name": "Kids",
+              "url": "https://www.ebay.com/b/Kids-Clothing-Shoes-Accessories/171146/bn_1642843",
+              "path": [
+                "eBay",
+                "Kids Clothing, Shoes & Accessories",
+                "Boys",
+                "Kids"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "category_id": "171146",
+              "status": "skipped_duplicate"
+            },
+            {
+              "name": "Boys' Accessories",
+              "url": "https://www.ebay.com/b/Boys-Accessories/57881/bn_661831",
+              "path": [
+                "eBay",
+                "Kids Clothing, Shoes & Accessories",
+                "Boys",
+                "Boys' Accessories"
+              ],
+              "depth": 3,
+              "product_count": 250,
+              "subcategory_count": 3,
+              "is_leaf": false,
+              "subcategories": [
+                {
+                  "name": "Baby Essentials",
+                  "url": "https://www.ebay.com/b/Baby-Essentials/2984/bn_1854104",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Accessories",
+                    "Baby Essentials"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "skipped_duplicate"
+                },
+                {
+                  "name": "Kids",
+                  "url": "https://www.ebay.com/b/Kids-Clothing-Shoes-Accessories/171146/bn_1642843",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Accessories",
+                    "Kids"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "171146",
+                  "status": "skipped_duplicate"
+                },
+                {
+                  "name": "The Children's Place",
+                  "url": "https://www.ebay.com/b/The-Childrens-Place-Boys-Accessories/57881/bn_654210",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Accessories",
+                    "The Children's Place"
+                  ],
+                  "depth": 4,
+                  "product_count": 250,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57881",
+                  "status": "done_leaf"
+                }
+              ],
+              "category_id": "57881",
+              "status": "done_with_children"
+            },
+            {
+              "name": "Boys' Shoes",
+              "url": "https://www.ebay.com/b/Boys-Shoes/57929/bn_661841",
+              "path": [
+                "eBay",
+                "Kids Clothing, Shoes & Accessories",
+                "Boys",
+                "Boys' Shoes"
+              ],
+              "depth": 3,
+              "product_count": 250,
+              "subcategory_count": 39,
+              "is_leaf": false,
+              "subcategories": [
+                {
+                  "name": "Baby Essentials",
+                  "url": "https://www.ebay.com/b/Baby-Essentials/2984/bn_1854104",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Baby Essentials"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "2984",
+                  "status": "skipped_duplicate"
+                },
+                {
+                  "name": "Kids",
+                  "url": "https://www.ebay.com/b/Kids-Clothing-Shoes-Accessories/171146/bn_1642843",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Kids"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "171146",
+                  "status": "skipped_duplicate"
+                },
+                {
+                  "name": "Boys' Accessories",
+                  "url": "https://www.ebay.com/b/Boys-Accessories/57881/bn_661831",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Boys' Accessories"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57881",
+                  "status": "skipped_duplicate"
+                },
+                {
+                  "name": "Crocs Boys' Lightning McQueen",
+                  "url": "https://www.ebay.com/b/Crocs-Boys-Lightning-McQueen/57929/bn_108059900",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Crocs Boys' Lightning McQueen"
+                  ],
+                  "depth": 4,
+                  "product_count": 27,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929",
+                  "status": "done_leaf"
+                },
+                {
+                  "name": "Nike Shoes for Boys",
+                  "url": "https://www.ebay.com/b/Nike-Shoes-for-Boys/57929/bn_646432",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Nike Shoes for Boys"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929",
+                  "status": "visiting"
+                },
+                {
+                  "name": "Nike Unisex Kids' Shoes",
+                  "url": "https://www.ebay.com/b/Nike-Unisex-Kids-Shoes/155202/bn_631610",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Nike Unisex Kids' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "155202"
+                },
+                {
+                  "name": "Nike Baby & Toddler Shoes",
+                  "url": "https://www.ebay.com/b/Nike-Baby-Toddler-Shoes/147285/bn_631611",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Nike Baby & Toddler Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "147285"
+                },
+                {
+                  "name": "Nike Unisex Kids' Shoes US Size 7",
+                  "url": "https://www.ebay.com/b/Nike-Unisex-Kids-Shoes-US-Size-7/155202/bn_57067650",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Nike Unisex Kids' Shoes US Size 7"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "155202"
+                },
+                {
+                  "name": "Converse Shoes for Boys",
+                  "url": "https://www.ebay.com/b/Converse-Shoes-for-Boys/57929/bn_645060",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Converse Shoes for Boys"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Vans Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Vans-Boys-Shoes/57929/bn_659462",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Vans Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "ASICS Boy Shoes for Boys",
+                  "url": "https://www.ebay.com/b/ASICS-Boy-Shoes-for-Boys/57929/bn_90408650",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "ASICS Boy Shoes for Boys"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "American Flag Cowboy Boots In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/American-Flag-Cowboy-Boots-In-Boys-Shoes/57929/bn_7022349840",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "American Flag Cowboy Boots In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Big Boys Shoes",
+                  "url": "https://www.ebay.com/b/Big-Boys-Shoes/57929/bn_7023344385",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Big Boys Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Boys High Top Sneakers",
+                  "url": "https://www.ebay.com/b/Boys-High-Top-Sneakers/57929/bn_7023359394",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Boys High Top Sneakers"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Boys Lebron Shoes",
+                  "url": "https://www.ebay.com/b/Boys-Lebron-Shoes/57929/bn_7023361302",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Boys Lebron Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Boys Shoes Size 3y",
+                  "url": "https://www.ebay.com/b/Boys-Shoes-Size-3y/57929/bn_7023335197",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Boys Shoes Size 3y"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Claw Slippers In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Claw-Slippers-In-Boys-Shoes/57929/bn_7022235665",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Claw Slippers In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Dinosaur Shoes In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Dinosaur-Shoes-In-Boys-Shoes/57929/bn_7022246167",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Dinosaur Shoes In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Dinosaur Slippers In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Dinosaur-Slippers-In-Boys-Shoes/57929/bn_7022499959",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Dinosaur Slippers In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "First Communion Shoes In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/First-Communion-Shoes-In-Boys-Shoes/57929/bn_7022201806",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "First Communion Shoes In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Fruity Pebbles In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Fruity-Pebbles-In-Boys-Shoes/57929/bn_7022139731",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Fruity Pebbles In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Grade School Jordans Indiana Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Grade-School-Jordans-Indiana-Boys-Shoes/57929/bn_7022191407",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Grade School Jordans Indiana Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Hatley Rain Boots In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Hatley-Rain-Boots-In-Boys-Shoes/57929/bn_7022589796",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Hatley Rain Boots In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Jordan 14 Gs In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Jordan-14-Gs-In-Boys-Shoes/57929/bn_7022419160",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Jordan 14 Gs In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Jordan Concords Kids In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Jordan-Concords-Kids-In-Boys-Shoes/57929/bn_7022530811",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Jordan Concords Kids In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Jordan Courtside In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Jordan-Courtside-In-Boys-Shoes/57929/bn_7022085809",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Jordan Courtside In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Jordan Space Jam Gs In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Jordan-Space-Jam-Gs-In-Boys-Shoes/57929/bn_7022339225",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Jordan Space Jam Gs In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Kd Kids Indiana Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Kd-Kids-Indiana-Boys-Shoes/57929/bn_7022462447",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Kd Kids Indiana Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Kids Griffey Shoes In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Kids-Griffey-Shoes-In-Boys-Shoes/57929/bn_7022485509",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Kids Griffey Shoes In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Light Up Slippers In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Light-Up-Slippers-In-Boys-Shoes/57929/bn_7022218686",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Light Up Slippers In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Masterson Boots In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Masterson-Boots-In-Boys-Shoes/57929/bn_7022278203",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Masterson Boots In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Nike 13c In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Nike-13c-In-Boys-Shoes/57929/bn_7022407674",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Nike 13c In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Nike Air Jordan Flight 23 Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Nike-Air-Jordan-Flight-23-Boys-Shoes/57929/bn_7022602292",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Nike Air Jordan Flight 23 Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Nike Huarache Basketball In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Nike-Huarache-Basketball-In-Boys-Shoes/57929/bn_7022483055",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Nike Huarache Basketball In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Nike Kd Gs In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Nike-Kd-Gs-In-Boys-Shoes/57929/bn_7022399464",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Nike Kd Gs In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Nike Sunray In Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Nike-Sunray-In-Boys-Shoes/57929/bn_7022368207",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Nike Sunray In Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Shaquille O Neal Shoes Indiana Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Shaquille-O-Neal-Shoes-Indiana-Boys-Shoes/57929/bn_7022084137",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Shaquille O Neal Shoes Indiana Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Youth Lebron Shoes",
+                  "url": "https://www.ebay.com/b/Youth-Lebron-Shoes/57929/bn_7023370214",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Youth Lebron Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                },
+                {
+                  "name": "Youth Nike Shox Indiana Boys' Shoes",
+                  "url": "https://www.ebay.com/b/Youth-Nike-Shox-Indiana-Boys-Shoes/57929/bn_7022426702",
+                  "path": [
+                    "eBay",
+                    "Kids Clothing, Shoes & Accessories",
+                    "Boys",
+                    "Boys' Shoes",
+                    "Youth Nike Shox Indiana Boys' Shoes"
+                  ],
+                  "depth": 4,
+                  "product_count": 0,
+                  "subcategory_count": 0,
+                  "is_leaf": true,
+                  "subcategories": [],
+                  "category_id": "57929"
+                }
+              ],
+              "category_id": "57929",
+              "status": "visiting"
+            }
+          ],
+          "category_id": "260013",
+          "status": "visiting"
+        },
+        {
+          "name": "Girls",
+          "url": "https://www.ebay.com/b/Girls-Clothing-Shoes-Accessories/260015/bn_7116422300",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Girls"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "260015"
+        },
+        {
+          "name": "Unisex Kids",
+          "url": "https://www.ebay.com/b/Unisex-Kids/260017/bn_7116399765",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Unisex Kids"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "260017"
+        },
+        {
+          "name": "Ed Hardy Clothing, Shoes & Accessories for Kids",
+          "url": "https://www.ebay.com/b/Ed-Hardy-Clothing-Shoes-Accessories-for-Kids/171146/bn_4544451",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Ed Hardy Clothing, Shoes & Accessories for Kids"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Polo Ralph Lauren Clothing, Shoes & Accessories for Kids",
+          "url": "https://www.ebay.com/b/Polo-Ralph-Lauren-Clothing-Shoes-Accessories-for-Kids/171146/bn_4544539",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Polo Ralph Lauren Clothing, Shoes & Accessories for Kids"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Zara Clothing, Shoes & Accessories for Kids",
+          "url": "https://www.ebay.com/b/Zara-Clothing-Shoes-Accessories-for-Kids/171146/bn_4544543",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Zara Clothing, Shoes & Accessories for Kids"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Minecraft Clothing, Shoes & Accessories for Kids",
+          "url": "https://www.ebay.com/b/Minecraft-Clothing-Shoes-Accessories-for-Kids/171146/bn_28265734",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Minecraft Clothing, Shoes & Accessories for Kids"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Mini Boden Clothing, Shoes & Accessories for Kids",
+          "url": "https://www.ebay.com/b/Mini-Boden-Clothing-Shoes-Accessories-for-Kids/171146/bn_4544412",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Mini Boden Clothing, Shoes & Accessories for Kids"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Disney Clothing, Shoes & Accessories for Kids",
+          "url": "https://www.ebay.com/b/Disney-Clothing-Shoes-Accessories-for-Kids/171146/bn_4544240",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Disney Clothing, Shoes & Accessories for Kids"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Pumpkin Patch Clothing, Shoes & Accessories for Kids",
+          "url": "https://www.ebay.com/b/Pumpkin-Patch-Clothing-Shoes-Accessories-for-Kids/171146/bn_4544375",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Pumpkin Patch Clothing, Shoes & Accessories for Kids"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "ROXY Clothing, Shoes & Accessories for Kids",
+          "url": "https://www.ebay.com/b/ROXY-Clothing-Shoes-Accessories-for-Kids/171146/bn_4544045",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "ROXY Clothing, Shoes & Accessories for Kids"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Boys Light Up Shoes",
+          "url": "https://www.ebay.com/b/Boys-Light-Up-Shoes/171146/bn_7023276877",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Boys Light Up Shoes"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Girls Light Up Shoes",
+          "url": "https://www.ebay.com/b/Girls-Light-Up-Shoes/171146/bn_7023288147",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Girls Light Up Shoes"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Kids Adidas Slides",
+          "url": "https://www.ebay.com/b/Kids-Adidas-Slides/171146/bn_7023273997",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Kids Adidas Slides"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Kids Adidas Sneakers",
+          "url": "https://www.ebay.com/b/Kids-Adidas-Sneakers/171146/bn_7023277683",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Kids Adidas Sneakers"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Kids Bathrobe",
+          "url": "https://www.ebay.com/b/Kids-Bathrobe/171146/bn_7023284957",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Kids Bathrobe"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Kids Jeans",
+          "url": "https://www.ebay.com/b/Kids-Jeans/171146/bn_7023292016",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Kids Jeans"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Kids Pajamas",
+          "url": "https://www.ebay.com/b/Kids-Pajamas/171146/bn_7023302013",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Kids Pajamas"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Kids Rain Jacket",
+          "url": "https://www.ebay.com/b/Kids-Rain-Jacket/171146/bn_7023292716",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Kids Rain Jacket"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Kids Rain Poncho",
+          "url": "https://www.ebay.com/b/Kids-Rain-Poncho/171146/bn_7023304786",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Kids Rain Poncho"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Kids T Shirt",
+          "url": "https://www.ebay.com/b/Kids-T-Shirt/171146/bn_7023313872",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Kids T Shirt"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        },
+        {
+          "name": "Kids Underwear",
+          "url": "https://www.ebay.com/b/Kids-Underwear/171146/bn_7023303307",
+          "path": [
+            "eBay",
+            "Kids Clothing, Shoes & Accessories",
+            "Kids Underwear"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "category_id": "171146"
+        }
+      ],
+      "category_id": "171146",
+      "status": "visiting"
+    },
+    {
+      "name": "Baby Clothing",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=baby+clothing&LH_BIN=1",
+      "path": [
+        "eBay",
+        "Baby Clothing"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": []
+    },
+    {
+      "name": "Boys Clothing",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=boys+clothing&LH_BIN=1",
+      "path": [
+        "eBay",
+        "Boys Clothing"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": []
+    },
+    {
+      "name": "Girls Clothing",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=girls+clothing&LH_BIN=1",
+      "path": [
+        "eBay",
+        "Girls Clothing"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": []
+    },
+    {
+      "name": "Kids Shoes",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=kids+shoes&LH_BIN=1",
+      "path": [
+        "eBay",
+        "Kids Shoes"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": []
+    },
+    {
+      "name": "Baby Gear",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=baby+stroller+car+seat+crib&LH_BIN=1",
+      "path": [
+        "eBay",
+        "Baby Gear"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": []
+    },
+    {
+      "name": "Baby Toys",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=baby+toys&LH_BIN=1",
+      "path": [
+        "eBay",
+        "Baby Toys"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": []
+    }
+  ]
+}

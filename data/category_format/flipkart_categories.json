@@ -1,0 +1,2918 @@
+{
+  "marketplace_key": "flipkart",
+  "marketplace": "https://www.flipkart.com",
+  "source_file": "data/flipkart/flipkart_kids_categories.json",
+  "source_status": "scraping_products",
+  "generated_at": "2026-05-01T09:09:19+00:00",
+  "format": "category_tree_only",
+  "summary": {
+    "main_category_count": 26,
+    "total_category_count": 166,
+    "leaf_category_count": 152,
+    "max_depth": 8
+  },
+  "main_categories": [
+    {
+      "name": "Clothing and Accessories",
+      "url": "https://www.flipkart.com/clothing-and-accessories/pr?sid=clo&q=kids",
+      "path": [
+        "Kids",
+        "Clothing and Accessories"
+      ],
+      "depth": 1,
+      "product_count": 39,
+      "subcategory_count": 29,
+      "is_leaf": false,
+      "subcategories": [
+        {
+          "name": "Winter Wear",
+          "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/pr?sid=clo%2Cqvw&q=kids",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Winter Wear"
+          ],
+          "depth": 2,
+          "product_count": 36,
+          "subcategory_count": 29,
+          "is_leaf": false,
+          "subcategories": [
+            {
+              "name": "Shrugs",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/shrugs/pr?sid=clo%2Cqvw%2Cvvr&q=kids",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Shrugs"
+              ],
+              "depth": 3,
+              "product_count": 36,
+              "subcategory_count": 1,
+              "is_leaf": false,
+              "subcategories": [
+                {
+                  "name": "Kids' Shrugs",
+                  "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/shrugs/kids-shrugs/pr?sid=clo%2Cqvw%2Cvvr%2Cuku&q=kids",
+                  "path": [
+                    "Kids",
+                    "Clothing and Accessories",
+                    "Winter Wear",
+                    "Shrugs",
+                    "Kids' Shrugs"
+                  ],
+                  "depth": 4,
+                  "product_count": 19,
+                  "subcategory_count": 12,
+                  "is_leaf": false,
+                  "subcategories": [
+                    {
+                      "name": "Kids Jeans",
+                      "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/jeans/kids-jeans/pr?sid=clo%2Cvua%2Ck58%2Cs9z",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "Kids Jeans"
+                      ],
+                      "depth": 5,
+                      "product_count": 12,
+                      "subcategory_count": 15,
+                      "is_leaf": false,
+                      "subcategories": [
+                        {
+                          "name": "Bottomwear",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/pr?sid=clo%2Cvua",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Bottomwear"
+                          ],
+                          "depth": 6,
+                          "product_count": 10,
+                          "subcategory_count": 29,
+                          "is_leaf": false,
+                          "subcategories": [
+                            {
+                              "name": "Shorts",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/shorts/pr?sid=clo%2Cvua%2Ce8g",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Shorts"
+                              ],
+                              "depth": 7,
+                              "product_count": 11,
+                              "subcategory_count": 3,
+                              "is_leaf": false,
+                              "subcategories": [
+                                {
+                                  "name": "Kids' Shorts",
+                                  "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/shorts/kids-shorts/pr?sid=clo%2Cvua%2Ce8g%2Cfkx",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "Shorts",
+                                    "Kids' Shorts"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 7,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,vua,e8g,fkx"
+                                },
+                                {
+                                  "name": "flip-flops",
+                                  "url": "https://www.flipkart.com/mens-footwear/slippers-flip-flops/pr?sid=osp%2Ccil%2Ce1r",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "Shorts",
+                                    "flip-flops"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:osp,cil,e1r"
+                                },
+                                {
+                                  "name": "sneakers",
+                                  "url": "https://www.flipkart.com/mens-footwear/casual-shoes/sneakers~type/pr?sid=osp%2Ccil%2Ce1f",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "Shorts",
+                                    "sneakers"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:osp,cil,e1f"
+                                }
+                              ],
+                              "key": "sid:clo,vua,e8g"
+                            },
+                            {
+                              "name": "Harem Pants",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/harem-pants/pr?sid=clo%2Cvua%2Cyzg",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Harem Pants"
+                              ],
+                              "depth": 7,
+                              "product_count": 11,
+                              "subcategory_count": 1,
+                              "is_leaf": false,
+                              "subcategories": [
+                                {
+                                  "name": "Kids' Harem Pants",
+                                  "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/harem-pants/kids-harem-pants/pr?sid=clo%2Cvua%2Cyzg%2C4em",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "Harem Pants",
+                                    "Kids' Harem Pants"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 11,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,vua,yzg,4em"
+                                }
+                              ],
+                              "key": "sid:clo,vua,yzg"
+                            },
+                            {
+                              "name": "Jeggings",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/jeggings/pr?sid=clo%2Cvua%2Cioa",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Jeggings"
+                              ],
+                              "depth": 7,
+                              "product_count": 11,
+                              "subcategory_count": 1,
+                              "is_leaf": false,
+                              "subcategories": [
+                                {
+                                  "name": "Kids' Jeggings",
+                                  "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/jeggings/kids-jeggings/pr?sid=clo%2Cvua%2Cioa%2Cvij",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "Jeggings",
+                                    "Kids' Jeggings"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 11,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,vua,ioa,vij"
+                                }
+                              ],
+                              "key": "sid:clo,vua,ioa"
+                            },
+                            {
+                              "name": "Skirts",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/skirts/pr?sid=clo%2Cvua%2Ciku",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Skirts"
+                              ],
+                              "depth": 7,
+                              "product_count": 14,
+                              "subcategory_count": 1,
+                              "is_leaf": false,
+                              "subcategories": [
+                                {
+                                  "name": "Kids' Skirts",
+                                  "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/skirts/kids-skirts/pr?sid=clo%2Cvua%2Ciku%2C2hl",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "Skirts",
+                                    "Kids' Skirts"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 9,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,vua,iku,2hl"
+                                }
+                              ],
+                              "key": "sid:clo,vua,iku"
+                            },
+                            {
+                              "name": "Three-Fourths",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/threefourths/pr?sid=clo%2Cvua%2Ceum",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Three-Fourths"
+                              ],
+                              "depth": 7,
+                              "product_count": 12,
+                              "subcategory_count": 1,
+                              "is_leaf": false,
+                              "subcategories": [
+                                {
+                                  "name": "Kids' Three-Fourths",
+                                  "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/threefourths/kids-threefourths/pr?sid=clo%2Cvua%2Ceum%2Cd4o",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "Three-Fourths",
+                                    "Kids' Three-Fourths"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 3,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,vua,eum,d4o"
+                                }
+                              ],
+                              "key": "sid:clo,vua,eum"
+                            },
+                            {
+                              "name": "chinos",
+                              "url": "https://www.flipkart.com/mens-trousers/chinos~theme/pr?sid=clo%2Cvua%2Cmle%2Clhk",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "chinos"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 4,
+                              "is_leaf": false,
+                              "subcategories": [
+                                {
+                                  "name": "Trousers",
+                                  "url": "https://www.flipkart.com/trousers/pr?sid=clo%2Cvua%2Cmle",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "chinos",
+                                    "Trousers"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,vua,mle"
+                                },
+                                {
+                                  "name": "jeans",
+                                  "url": "https://www.flipkart.com/men/jeans/pr?sid=2oq%2Cs9b%2C94h",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "chinos",
+                                    "jeans"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:2oq,s9b,94h"
+                                },
+                                {
+                                  "name": "trousers",
+                                  "url": "https://www.flipkart.com/men/trousers/pr?sid=2oq%2Cs9b%2C9uj",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "chinos",
+                                    "trousers"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:2oq,s9b,9uj"
+                                },
+                                {
+                                  "name": "sweater",
+                                  "url": "https://www.flipkart.com/mens-clothing/winter-seasonal-wear/sweaters/pr?sid=2oq%2Cs9b%2Cqgu%2Cl8m",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "chinos",
+                                    "sweater"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:2oq,s9b,qgu,l8m"
+                                }
+                              ],
+                              "key": "sid:clo,vua,mle,lhk"
+                            },
+                            {
+                              "name": "jeans",
+                              "url": "https://www.flipkart.com/mens-jeans/pr?sid=clo%2Cvua%2Ck58%2Ci51",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "jeans"
+                              ],
+                              "depth": 7,
+                              "product_count": 10,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,vua,k58,i51"
+                            },
+                            {
+                              "name": "shorts",
+                              "url": "https://www.flipkart.com/mens-shorts/pr?sid=clo%2Cvua%2Ce8g%2Ckc7",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "shorts"
+                              ],
+                              "depth": 7,
+                              "product_count": 10,
+                              "subcategory_count": 6,
+                              "is_leaf": false,
+                              "subcategories": [
+                                {
+                                  "name": "T-shirts",
+                                  "url": "https://www.flipkart.com/mens-tshirts/pr?sid=clo%2Cash%2Cank%2Cedy",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "shorts",
+                                    "T-shirts"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 9,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,ash,ank,edy"
+                                },
+                                {
+                                  "name": "shirts",
+                                  "url": "https://www.flipkart.com/mens-shirts/pr?sid=clo%2Cash%2Caxc%2Cmmk",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "shorts",
+                                    "shirts"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,ash,axc,mmk"
+                                },
+                                {
+                                  "name": "sunglasses",
+                                  "url": "https://www.flipkart.com/sunglasses/pr?sid=26x",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "shorts",
+                                    "sunglasses"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:26x"
+                                },
+                                {
+                                  "name": "denim shorts",
+                                  "url": "https://www.flipkart.com/womens-shorts/denim-shorts~type/pr?sid=clo%2Cvua%2Ce8g%2Chbd",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "shorts",
+                                    "denim shorts"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,vua,e8g,hbd"
+                                },
+                                {
+                                  "name": "Pleated Trousers",
+                                  "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/trousers/pleated~type/pr?sid=clo%2Cvua%2Cmle",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "shorts",
+                                    "Pleated Trousers"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,vua,mle",
+                                  "skipped_reason": "already_seen"
+                                },
+                                {
+                                  "name": "Cropped Trousers",
+                                  "url": "https://www.flipkart.com/mens-trousers/cropped-trousers~type/pr?sid=clo%2Cvua%2Cmle%2Clhk",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "shorts",
+                                    "Cropped Trousers"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,vua,mle,lhk",
+                                  "skipped_reason": "already_seen"
+                                }
+                              ],
+                              "key": "sid:clo,vua,e8g,kc7"
+                            },
+                            {
+                              "name": "skirts",
+                              "url": "https://www.flipkart.com/womens-skirts/pr?sid=clo%2Cvua%2Ciku%2Cw5t",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "skirts"
+                              ],
+                              "depth": 7,
+                              "product_count": 12,
+                              "subcategory_count": 8,
+                              "is_leaf": false,
+                              "subcategories": [
+                                {
+                                  "name": "Co Ords",
+                                  "url": "https://www.flipkart.com/clothing-and-accessories/co-ords/pr?sid=clo%2Cl1l",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "skirts",
+                                    "Co Ords"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,l1l"
+                                },
+                                {
+                                  "name": "wedges",
+                                  "url": "https://www.flipkart.com/womens-footwear/wedges/pr?sid=osp%2Ciko%2Cjpm",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "skirts",
+                                    "wedges"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:osp,iko,jpm"
+                                },
+                                {
+                                  "name": "Kurtis",
+                                  "url": "https://www.flipkart.com/womens-kurtas-kurtis/pr?sid=clo%2Ccfv%2Ccib%2Crkt",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "skirts",
+                                    "Kurtis"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,cfv,cib,rkt"
+                                },
+                                {
+                                  "name": "Lehenga",
+                                  "url": "https://www.flipkart.com/womens-lehenga-cholis/pr?sid=clo%2Chlg%2Cwrp",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "skirts",
+                                    "Lehenga"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,hlg,wrp"
+                                },
+                                {
+                                  "name": "Dress Material",
+                                  "url": "https://www.flipkart.com/dress-materials/pr?sid=clo%2Cqfi%2Cxcx%2Cms4",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "skirts",
+                                    "Dress Material"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,qfi,xcx,ms4"
+                                },
+                                {
+                                  "name": "Blouse",
+                                  "url": "https://www.flipkart.com/womens-blouse-materials/pr?sid=clo%2C8on%2C5n9%2Chny",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "skirts",
+                                    "Blouse"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,8on,5n9,hny"
+                                },
+                                {
+                                  "name": "Dupatta",
+                                  "url": "https://www.flipkart.com/womens-dupattas/pr?sid=clo%2Cqd8%2Ct6b%2Cpjy",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "skirts",
+                                    "Dupatta"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,qd8,t6b,pjy"
+                                },
+                                {
+                                  "name": "Ethnic Sets",
+                                  "url": "https://www.flipkart.com/womens-ethnic-sets/pr?sid=clo%2Ccfv%2Citg%2Ctys",
+                                  "path": [
+                                    "Kids",
+                                    "Clothing and Accessories",
+                                    "Winter Wear",
+                                    "Shrugs",
+                                    "Kids' Shrugs",
+                                    "Kids Jeans",
+                                    "Bottomwear",
+                                    "skirts",
+                                    "Ethnic Sets"
+                                  ],
+                                  "depth": 8,
+                                  "product_count": 0,
+                                  "subcategory_count": 0,
+                                  "is_leaf": true,
+                                  "subcategories": [],
+                                  "key": "sid:clo,cfv,itg,tys"
+                                }
+                              ],
+                              "key": "sid:clo,vua,iku,w5t"
+                            },
+                            {
+                              "name": "Jeans",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/jeans/pr?sid=clo%2Cvua%2Ck58",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Jeans"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,vua,k58"
+                            },
+                            {
+                              "name": "Track Pants",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/track-pants/pr?sid=clo%2Cvua%2Cjlk",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Track Pants"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,vua,jlk"
+                            },
+                            {
+                              "name": "Trousers",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/trousers/pr?sid=clo%2Cvua%2Cmle",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Trousers"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,vua,mle"
+                            },
+                            {
+                              "name": "Cargos",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/cargos/pr?sid=clo%2Cvua%2Crqy",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Cargos"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,vua,rqy"
+                            },
+                            {
+                              "name": "Tights",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/tights/pr?sid=clo%2Cvua%2Czvq",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Tights"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,vua,zvq"
+                            },
+                            {
+                              "name": "Capris",
+                              "url": "https://www.flipkart.com/capris/pr?sid=clo%2Cvua%2C7e0",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Capris"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,vua,7e0"
+                            },
+                            {
+                              "name": "Lungis",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/lungis/pr?sid=clo%2Cvua%2C5jo",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Lungis"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,vua,5jo"
+                            },
+                            {
+                              "name": "clothing",
+                              "url": "https://www.flipkart.com/clothing-and-accessories/pr?sid=clo",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "clothing"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo"
+                            },
+                            {
+                              "name": "shirts",
+                              "url": "https://www.flipkart.com/mens-shirts/pr?sid=clo%2Cash%2Caxc%2Cmmk",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "shirts"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,ash,axc,mmk"
+                            },
+                            {
+                              "name": "tops",
+                              "url": "https://www.flipkart.com/womens-tops/pr?sid=clo%2Cash%2Cohw%2C36j",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "tops"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,ash,ohw,36j"
+                            },
+                            {
+                              "name": "formal shirt",
+                              "url": "https://www.flipkart.com/mens-formal-shirts/pr?sid=clo%2Cash%2Caxc%2Cmmk%2Cbk1",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "formal shirt"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,ash,axc,mmk,bk1"
+                            },
+                            {
+                              "name": "footwear",
+                              "url": "https://www.flipkart.com/footwear/pr?sid=osp",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "footwear"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:osp"
+                            },
+                            {
+                              "name": "T-shirts",
+                              "url": "https://www.flipkart.com/mens-tshirts/pr?sid=clo%2Cash%2Cank%2Cedy",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "T-shirts"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,ash,ank,edy"
+                            },
+                            {
+                              "name": "Jackets",
+                              "url": "https://www.flipkart.com/mens-jackets/pr?sid=clo%2Cqvw%2Cz0g%2Cjbm",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Jackets"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,qvw,z0g,jbm"
+                            },
+                            {
+                              "name": "Sweatshirts",
+                              "url": "https://www.flipkart.com/mens-sweatshirts/pr?sid=clo%2Cqvw%2C64a%2Cvui",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Sweatshirts"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,qvw,64a,vui"
+                            },
+                            {
+                              "name": "Casual Shirts",
+                              "url": "https://www.flipkart.com/mens-casual-shirts/pr?sid=clo%2Cash%2Caxc%2Cmmk%2Ckp7",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Casual Shirts"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,ash,axc,mmk,kp7"
+                            },
+                            {
+                              "name": "Kurtis",
+                              "url": "https://www.flipkart.com/womens-kurtas-kurtis/pr?sid=clo%2Ccfv%2Ccib%2Crkt",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Kurtis"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,cfv,cib,rkt"
+                            },
+                            {
+                              "name": "Anarkali",
+                              "url": "https://www.flipkart.com/womens-gowns/anarkali~type/pr?sid=clo%2Codx%2Cod7%2C0xx",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Anarkali"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,odx,od7,0xx"
+                            },
+                            {
+                              "name": "Dresses",
+                              "url": "https://www.flipkart.com/womens-dresses/pr?sid=clo%2Codx%2Cmaj%2Cjhy",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Dresses"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,odx,maj,jhy"
+                            },
+                            {
+                              "name": "Track Pants",
+                              "url": "https://www.flipkart.com/mens-track-pants/pr?sid=clo%2Cvua%2Cjlk%2C6ql",
+                              "path": [
+                                "Kids",
+                                "Clothing and Accessories",
+                                "Winter Wear",
+                                "Shrugs",
+                                "Kids' Shrugs",
+                                "Kids Jeans",
+                                "Bottomwear",
+                                "Track Pants"
+                              ],
+                              "depth": 7,
+                              "product_count": 0,
+                              "subcategory_count": 0,
+                              "is_leaf": true,
+                              "subcategories": [],
+                              "key": "sid:clo,vua,jlk,6ql"
+                            }
+                          ],
+                          "key": "sid:clo,vua"
+                        },
+                        {
+                          "name": "Jeans",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/jeans/pr?sid=clo%2Cvua%2Ck58",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Jeans"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,vua,k58"
+                        },
+                        {
+                          "name": "Jeans",
+                          "url": "https://www.flipkart.com/men/jeans/pr?sid=2oq%2Cs9b%2C94h",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Jeans"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:2oq,s9b,94h"
+                        },
+                        {
+                          "name": "Killer",
+                          "url": "https://www.flipkart.com/mens-jeans/killer~brand/pr?sid=clo%2Cvua%2Ck58%2Ci51",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Killer"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,vua,k58,i51"
+                        },
+                        {
+                          "name": "Kids Shirts",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/topwear/shirts/kids-shirts/pr?sid=clo%2Cash%2Caxc%2Cznf",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Kids Shirts"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,ash,axc,znf"
+                        },
+                        {
+                          "name": "Kids T Shirts",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/topwear/t-shirts/kids-t-shirts/pr?sid=clo%2Cash%2Cank%2Cpgi",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Kids T Shirts"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,ash,ank,pgi"
+                        },
+                        {
+                          "name": "Kids Sweatshirts",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/sweatshirts/kids-sweatshirts/pr?sid=clo%2Cqvw%2C64a%2Clwy",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Kids Sweatshirts"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,qvw,64a,lwy"
+                        },
+                        {
+                          "name": "Kids Tops",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/topwear/tops/kids-tops/pr?sid=clo%2Cash%2Cohw%2Cotd",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Kids Tops"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,ash,ohw,otd"
+                        },
+                        {
+                          "name": "Kids Jackets",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/jackets/kids-jackets/pr?sid=clo%2Cqvw%2Cz0g%2C0vw",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Kids Jackets"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,qvw,z0g,0vw"
+                        },
+                        {
+                          "name": "Casual Shoes",
+                          "url": "https://www.flipkart.com/footwear/kids-infant-footwear/boys-footwear/casual-shoes/pr?sid=osp%2Cmba%2Co3t%2Cdrt",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Casual Shoes"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:osp,mba,o3t,drt"
+                        },
+                        {
+                          "name": "Kids Apparel Combos",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/kids-combos-and-costumes/kids-apparel-combos/pr?sid=clo%2Ceof%2C1bp",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Kids Apparel Combos"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,eof,1bp"
+                        },
+                        {
+                          "name": "Sports Shoes",
+                          "url": "https://www.flipkart.com/footwear/kids-infant-footwear/boys-footwear/sports-shoes/pr?sid=osp%2Cmba%2Co3t%2Caua",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Sports Shoes"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:osp,mba,o3t,aua"
+                        },
+                        {
+                          "name": "Kids Trousers",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/trousers/kids-trousers/pr?sid=clo%2Cvua%2Cmle%2Cy8t",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Kids Trousers"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,vua,mle,y8t"
+                        },
+                        {
+                          "name": "Kids Dresses",
+                          "url": "https://www.flipkart.com/clothing-and-accessories/dresses-and-gowns/dresses/kids-dresses/pr?sid=clo%2Codx%2Cmaj%2Czc1",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "Kids Dresses"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:clo,odx,maj,zc1"
+                        },
+                        {
+                          "name": "boys shirts",
+                          "url": "https://www.flipkart.com/kids-clothing/boys-wear/shirts/pr?sid=2oq%2Cmpf%2Cu6l%2Cf1r",
+                          "path": [
+                            "Kids",
+                            "Clothing and Accessories",
+                            "Winter Wear",
+                            "Shrugs",
+                            "Kids' Shrugs",
+                            "Kids Jeans",
+                            "boys shirts"
+                          ],
+                          "depth": 6,
+                          "product_count": 0,
+                          "subcategory_count": 0,
+                          "is_leaf": true,
+                          "subcategories": [],
+                          "key": "sid:2oq,mpf,u6l,f1r"
+                        }
+                      ],
+                      "key": "sid:clo,vua,k58,s9z"
+                    },
+                    {
+                      "name": "Kids Jackets",
+                      "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/jackets/kids-jackets/pr?sid=clo%2Cqvw%2Cz0g%2C0vw",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "Kids Jackets"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:clo,qvw,z0g,0vw"
+                    },
+                    {
+                      "name": "Kids Sweaters",
+                      "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/sweaters-and-cardigans/kids-sweaters/pr?sid=clo%2Cqvw%2Cvkb%2Csjw",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "Kids Sweaters"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:clo,qvw,vkb,sjw"
+                    },
+                    {
+                      "name": "Kids Skirts",
+                      "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/skirts/kids-skirts/pr?sid=clo%2Cvua%2Ciku%2C2hl",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "Kids Skirts"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:clo,vua,iku,2hl"
+                    },
+                    {
+                      "name": "Kids T Shirts",
+                      "url": "https://www.flipkart.com/clothing-and-accessories/topwear/t-shirts/kids-t-shirts/pr?sid=clo%2Cash%2Cank%2Cpgi",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "Kids T Shirts"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:clo,ash,ank,pgi"
+                    },
+                    {
+                      "name": "Kids Kurtas",
+                      "url": "https://www.flipkart.com/clothing-and-accessories/kurtas-ethnic-sets-and-bottoms/kurtas/kids-kurtas/pr?sid=clo%2Ccfv%2Ccib%2Czlc",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "Kids Kurtas"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:clo,cfv,cib,zlc"
+                    },
+                    {
+                      "name": "Kids Tops",
+                      "url": "https://www.flipkart.com/clothing-and-accessories/topwear/tops/kids-tops/pr?sid=clo%2Cash%2Cohw%2Cotd",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "Kids Tops"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:clo,ash,ohw,otd"
+                    },
+                    {
+                      "name": "Kids Jumpsuits",
+                      "url": "https://www.flipkart.com/clothing-and-accessories/jumpsuits-and-dungarees/kids-rompers-and-dungarees/kids-jumpsuits/pr?sid=clo%2Ch4p%2C2z1%2C7zd",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "Kids Jumpsuits"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:clo,h4p,2z1,7zd"
+                    },
+                    {
+                      "name": "Kids Trousers",
+                      "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/trousers/kids-trousers/pr?sid=clo%2Cvua%2Cmle%2Cy8t",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "Kids Trousers"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:clo,vua,mle,y8t"
+                    },
+                    {
+                      "name": "ethnic wear",
+                      "url": "https://www.flipkart.com/womens-clothing/ethnic-wear/pr?sid=2oq%2Cc1r%2C3pj",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "ethnic wear"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:2oq,c1r,3pj"
+                    },
+                    {
+                      "name": "girls jacket",
+                      "url": "https://www.flipkart.com/kids-clothing/girls-wear/winter-seasonal-wear/jackets/pr?sid=2oq%2Cmpf%2Cacr%2Cc3a%2Cy78",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "girls jacket"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:2oq,mpf,acr,c3a,y78"
+                    },
+                    {
+                      "name": "girls jeans",
+                      "url": "https://www.flipkart.com/kids-clothing/girls-wear/jeans/pr?sid=2oq%2Cmpf%2Cacr%2C3vq",
+                      "path": [
+                        "Kids",
+                        "Clothing and Accessories",
+                        "Winter Wear",
+                        "Shrugs",
+                        "Kids' Shrugs",
+                        "girls jeans"
+                      ],
+                      "depth": 5,
+                      "product_count": 0,
+                      "subcategory_count": 0,
+                      "is_leaf": true,
+                      "subcategories": [],
+                      "key": "sid:2oq,mpf,acr,3vq"
+                    }
+                  ],
+                  "key": "sid:clo,qvw,vvr,uku"
+                }
+              ],
+              "key": "sid:clo,qvw,vvr"
+            },
+            {
+              "name": "Gloves",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/gloves/pr?sid=clo%2Cqvw%2Ctog&q=kids",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Gloves"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,tog"
+            },
+            {
+              "name": "Sweatshirts",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/sweatshirts/pr?sid=clo%2Cqvw%2C64a&q=kids",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Sweatshirts"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,64a"
+            },
+            {
+              "name": "Sweaters and Cardigans",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/sweaters-and-cardigans/pr?sid=clo%2Cqvw%2Cvkb&q=kids",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Sweaters and Cardigans"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,vkb"
+            },
+            {
+              "name": "Mufflers",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/mufflers/pr?sid=clo%2Cqvw%2Ca05&q=kids",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Mufflers"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,a05"
+            },
+            {
+              "name": "shrugs",
+              "url": "https://www.flipkart.com/womens-shrugs/pr?sid=clo%2Cqvw%2Cvvr%2Csyu",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "shrugs"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,vvr,syu"
+            },
+            {
+              "name": "jackets",
+              "url": "https://www.flipkart.com/mens-jackets/pr?sid=clo%2Cqvw%2Cz0g%2Cjbm",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "jackets"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,z0g,jbm"
+            },
+            {
+              "name": "Sweatshirts",
+              "url": "https://www.flipkart.com/mens-sweatshirts/pr?sid=clo%2Cqvw%2C64a%2Cvui",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Sweatshirts"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,64a,vui"
+            },
+            {
+              "name": "Jackets",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/jackets/pr?sid=clo%2Cqvw%2Cz0g",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Jackets"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,z0g"
+            },
+            {
+              "name": "Scarves",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/scarves/pr?sid=clo%2Cqvw%2Cmgw",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Scarves"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,mgw"
+            },
+            {
+              "name": "Shawls",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/shawls/pr?sid=clo%2Cqvw%2Ckpn",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Shawls"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,kpn"
+            },
+            {
+              "name": "Thermals",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/thermals/pr?sid=clo%2Cqvw%2Cugg",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Thermals"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,ugg"
+            },
+            {
+              "name": "Ponchos",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/ponchos/pr?sid=clo%2Cqvw%2Ch0j",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Ponchos"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,h0j"
+            },
+            {
+              "name": "Leg Warmers",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/leg-warmers/pr?sid=clo%2Cqvw%2Clpj",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Leg Warmers"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,lpj"
+            },
+            {
+              "name": "Arm Warmers",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/arm-warmers/pr?sid=clo%2Cqvw%2Crrn",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Arm Warmers"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,rrn"
+            },
+            {
+              "name": "sweater",
+              "url": "https://www.flipkart.com/mens-sweaters/pr?sid=clo%2Cqvw%2Cvkb%2Cieq",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "sweater"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,vkb,ieq"
+            },
+            {
+              "name": "track pants",
+              "url": "https://www.flipkart.com/mens-track-pants/pr?sid=clo%2Cvua%2Cjlk%2C6ql",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "track pants"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,vua,jlk,6ql"
+            },
+            {
+              "name": "shirt",
+              "url": "https://www.flipkart.com/mens-shirts/pr?sid=clo%2Cash%2Caxc%2Cmmk",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "shirt"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,ash,axc,mmk"
+            },
+            {
+              "name": "Thermals",
+              "url": "https://www.flipkart.com/mens-thermals/pr?sid=clo%2Cqvw%2Cugg%2Coak",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Thermals"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,ugg,oak"
+            },
+            {
+              "name": "Shawls",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/shawls/womens-shawls/pr?sid=clo%2Cqvw%2Ckpn%2C9pk",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Shawls"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,kpn,9pk"
+            },
+            {
+              "name": "Women Sweaters",
+              "url": "https://www.flipkart.com/womens-sweaters/pr?sid=clo%2Cqvw%2Cvkb%2Chbp",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Women Sweaters"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,vkb,hbp"
+            },
+            {
+              "name": "Gloves",
+              "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/gloves/mens-gloves/pr?sid=clo%2Cqvw%2Ctog%2Cjvu",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Gloves"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qvw,tog,jvu"
+            },
+            {
+              "name": "Tracksuits",
+              "url": "https://www.flipkart.com/clothing-and-accessories/tracksuits/mens-tracksuits/pr?sid=clo%2Cnyk%2Czp4",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Tracksuits"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,nyk,zp4"
+            },
+            {
+              "name": "T Shirts",
+              "url": "https://www.flipkart.com/mens-tshirts/pr?sid=clo%2Cash%2Cank%2Cedy",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "T Shirts"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,ash,ank,edy"
+            },
+            {
+              "name": "Trousers",
+              "url": "https://www.flipkart.com/mens-trousers/pr?sid=clo%2Cvua%2Cmle%2Clhk",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Trousers"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,vua,mle,lhk"
+            },
+            {
+              "name": "Vests",
+              "url": "https://www.flipkart.com/clothing-and-accessories/innerwear-and-swimwear/vests/mens-vests/pr?sid=clo%2Cqfl%2Cwp7%2Czpk",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Vests"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:clo,qfl,wp7,zpk"
+            },
+            {
+              "name": "Luggage Bags",
+              "url": "https://www.flipkart.com/bags-wallets-belts/luggage-travel/pr?sid=reh%2Cplk",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Luggage Bags"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:reh,plk"
+            },
+            {
+              "name": "Suitcases",
+              "url": "https://www.flipkart.com/bags-wallets-belts/luggage-travel/suitcases/pr?sid=reh%2Cplk%2Ctvv",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Suitcases"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:reh,plk,tvv"
+            },
+            {
+              "name": "Backpacks",
+              "url": "https://www.flipkart.com/backpacks/pr?sid=reh%2C4d7%2Cak9",
+              "path": [
+                "Kids",
+                "Clothing and Accessories",
+                "Winter Wear",
+                "Backpacks"
+              ],
+              "depth": 3,
+              "product_count": 0,
+              "subcategory_count": 0,
+              "is_leaf": true,
+              "subcategories": [],
+              "key": "sid:reh,4d7,ak9"
+            }
+          ],
+          "key": "sid:clo,qvw"
+        },
+        {
+          "name": "Topwear",
+          "url": "https://www.flipkart.com/clothing-and-accessories/topwear/pr?sid=clo%2Cash&q=kids",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Topwear"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,ash"
+        },
+        {
+          "name": "Bottomwear",
+          "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/pr?sid=clo%2Cvua&q=kids",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Bottomwear"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,vua"
+        },
+        {
+          "name": "Raincoats",
+          "url": "https://www.flipkart.com/clothing-and-accessories/raincoats/pr?sid=clo%2Cmz5&q=kids",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Raincoats"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,mz5"
+        },
+        {
+          "name": "Dresses and Gowns",
+          "url": "https://www.flipkart.com/clothing-and-accessories/dresses-and-gowns/pr?sid=clo%2Codx&q=kids",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Dresses and Gowns"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,odx"
+        },
+        {
+          "name": "chеckеd shirts",
+          "url": "https://www.flipkart.com/mens-shirts/checkered~pattern/pr?sid=clo%2Cash%2Caxc%2Cmmk",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "chеckеd shirts"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,ash,axc,mmk"
+        },
+        {
+          "name": "track",
+          "url": "https://www.flipkart.com/mens-track-pants/pr?sid=clo%2Cvua%2Cjlk%2C6ql",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "track"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,vua,jlk,6ql"
+        },
+        {
+          "name": "bodycon drеssеs",
+          "url": "https://www.flipkart.com/women/dresses/bodycon~type/pr?sid=2oq%2Cc1r%2Cha6%2Cxzt%2C3y0",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "bodycon drеssеs"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:2oq,c1r,ha6,xzt,3y0"
+        },
+        {
+          "name": "Anarkali",
+          "url": "https://www.flipkart.com/womens-kurtas-kurtis/anarkali~type/pr?sid=clo%2Ccfv%2Ccib%2Crkt",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Anarkali"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,cfv,cib,rkt"
+        },
+        {
+          "name": "Kurtas Ethnic Sets And Bottoms",
+          "url": "https://www.flipkart.com/clothing-and-accessories/kurtas-ethnic-sets-and-bottoms/pr?sid=clo%2Ccfv",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Kurtas Ethnic Sets And Bottoms"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,cfv"
+        },
+        {
+          "name": "Co Ords",
+          "url": "https://www.flipkart.com/clothing-and-accessories/co-ords/pr?sid=clo%2Cl1l",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Co Ords"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,l1l"
+        },
+        {
+          "name": "Innerwear And Swimwear",
+          "url": "https://www.flipkart.com/clothing-and-accessories/innerwear-and-swimwear/pr?sid=clo%2Cqfl",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Innerwear And Swimwear"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,qfl"
+        },
+        {
+          "name": "Kids Combos And Costumes",
+          "url": "https://www.flipkart.com/clothing-and-accessories/kids-combos-and-costumes/pr?sid=clo%2Ceof",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Kids Combos And Costumes"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,eof"
+        },
+        {
+          "name": "Fabrics",
+          "url": "https://www.flipkart.com/clothing-and-accessories/fabrics/pr?sid=clo%2Cqfi",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Fabrics"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,qfi"
+        },
+        {
+          "name": "Sleepwear",
+          "url": "https://www.flipkart.com/clothing-and-accessories/sleepwear/pr?sid=clo%2C1hc",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Sleepwear"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,1hc"
+        },
+        {
+          "name": "Lehenga Cholis",
+          "url": "https://www.flipkart.com/clothing-and-accessories/lehenga-cholis/pr?sid=clo%2Chlg",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Lehenga Cholis"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,hlg"
+        },
+        {
+          "name": "Clothing Accessories",
+          "url": "https://www.flipkart.com/clothing-and-accessories/clothing-accessories/pr?sid=clo%2Cqd8",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Clothing Accessories"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,qd8"
+        },
+        {
+          "name": "Blazers Waistcoats And Suits",
+          "url": "https://www.flipkart.com/clothing-and-accessories/blazers-waistcoats-and-suits/pr?sid=clo%2Cupk",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Blazers Waistcoats And Suits"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,upk"
+        },
+        {
+          "name": "Tracksuits",
+          "url": "https://www.flipkart.com/clothing-and-accessories/tracksuits/pr?sid=clo%2Cnyk",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Tracksuits"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,nyk"
+        },
+        {
+          "name": "Jumpsuits And Dungarees",
+          "url": "https://www.flipkart.com/clothing-and-accessories/jumpsuits-and-dungarees/pr?sid=clo%2Ch4p",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Jumpsuits And Dungarees"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,h4p"
+        },
+        {
+          "name": "Windcheaters",
+          "url": "https://www.flipkart.com/clothing-and-accessories/windcheaters/pr?sid=clo%2C8j5",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Windcheaters"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,8j5"
+        },
+        {
+          "name": "Twinning Sets",
+          "url": "https://www.flipkart.com/clothing-and-accessories/twinning-sets/pr?sid=clo%2Ctwn",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Twinning Sets"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,twn"
+        },
+        {
+          "name": "Kids Dungarees",
+          "url": "https://www.flipkart.com/clothing-and-accessories/jumpsuits-and-dungarees/kids-rompers-and-dungarees/kids-dungarees/pr?sid=clo%2Ch4p%2C2z1%2Cckv",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Kids Dungarees"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,h4p,2z1,ckv"
+        },
+        {
+          "name": "Baby Blankets",
+          "url": "https://www.flipkart.com/baby-care/baby-bedding/baby-blankets/pr?sid=kyh%2C7j3%2Cw47",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Baby Blankets"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:kyh,7j3,w47"
+        },
+        {
+          "name": "Nappy Bibs Combo",
+          "url": "https://www.flipkart.com/baby-care/baby-gift-sets-combo/nappy-bibs-combo/pr?sid=kyh%2Cutp%2Cdhf",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Nappy Bibs Combo"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:kyh,utp,dhf"
+        },
+        {
+          "name": "Kids Caps",
+          "url": "https://www.flipkart.com/clothing-and-accessories/clothing-accessories/caps/kids-caps/pr?sid=clo%2Cqd8%2Cy9u%2Cc32",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Kids Caps"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,qd8,y9u,c32"
+        },
+        {
+          "name": "Kids T Shirts",
+          "url": "https://www.flipkart.com/clothing-and-accessories/topwear/t-shirts/kids-t-shirts/pr?sid=clo%2Cash%2Cank%2Cpgi",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Kids T Shirts"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,ash,ank,pgi"
+        },
+        {
+          "name": "Baby Bedding Sets",
+          "url": "https://www.flipkart.com/baby-care/baby-bedding/baby-bedding-sets/pr?sid=kyh%2C7j3%2Cyr4",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Baby Bedding Sets"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:kyh,7j3,yr4"
+        },
+        {
+          "name": "Sherwani",
+          "url": "https://www.flipkart.com/mens-sherwanis/pr?sid=clo%2Ccfv%2Cdra%2Cbrt",
+          "path": [
+            "Kids",
+            "Clothing and Accessories",
+            "Sherwani"
+          ],
+          "depth": 2,
+          "product_count": 0,
+          "subcategory_count": 0,
+          "is_leaf": true,
+          "subcategories": [],
+          "key": "sid:clo,cfv,dra,brt"
+        }
+      ],
+      "key": "sid:clo"
+    },
+    {
+      "name": "Kids' T-shirts",
+      "url": "https://www.flipkart.com/clothing-and-accessories/kids-tshirts/pr?sid=clo%2Cash%2Cank%2Cpgi&q=kids",
+      "path": [
+        "Kids",
+        "Kids' T-shirts"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:clo,ash,ank,pgi"
+    },
+    {
+      "name": "Kids' Dresses",
+      "url": "https://www.flipkart.com/clothing-and-accessories/kids-dresses/pr?sid=clo%2Codx%2Cmaj%2Czc1&q=kids",
+      "path": [
+        "Kids",
+        "Kids' Dresses"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:clo,odx,maj,zc1"
+    },
+    {
+      "name": "Kids' Apparel Combos",
+      "url": "https://www.flipkart.com/clothing-and-accessories/kids-apparel-combos/pr?sid=clo%2Ceof%2C1bp&q=kids",
+      "path": [
+        "Kids",
+        "Kids' Apparel Combos"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:clo,eof,1bp"
+    },
+    {
+      "name": "Toys and Games",
+      "url": "https://www.flipkart.com/toys-and-games/pr?sid=tng&q=kids",
+      "path": [
+        "Kids",
+        "Toys and Games"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:tng"
+    },
+    {
+      "name": "Baby Care",
+      "url": "https://www.flipkart.com/baby-care/pr?sid=kyh&q=kids",
+      "path": [
+        "Kids",
+        "Baby Care"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:kyh"
+    },
+    {
+      "name": "Kids Accessories",
+      "url": "https://www.flipkart.com/kids-accessories/pr?sid=d69&q=kids",
+      "path": [
+        "Kids",
+        "Kids Accessories"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:d69"
+    },
+    {
+      "name": "Next",
+      "url": "https://www.flipkart.com/search?q=kids&page=2",
+      "path": [
+        "Kids",
+        "Next"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "search:kids"
+    },
+    {
+      "name": "Diaper & Potty Training",
+      "url": "https://www.flipkart.com/baby-care/diaper-potty-training/pr?sid=kyh%2Cfdp&q=baby+care",
+      "path": [
+        "Kids",
+        "Diaper & Potty Training"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:kyh,fdp"
+    },
+    {
+      "name": "Baby Bath, Hair & Skin Care",
+      "url": "https://www.flipkart.com/baby-care/baby-bath-hair-skin-care/pr?sid=kyh%2Cpl5&q=baby+care",
+      "path": [
+        "Kids",
+        "Baby Bath, Hair & Skin Care"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:kyh,pl5"
+    },
+    {
+      "name": "Baby Food",
+      "url": "https://www.flipkart.com/baby-care/baby-food/pr?sid=kyh%2Carw&q=baby+care",
+      "path": [
+        "Kids",
+        "Baby Food"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:kyh,arw"
+    },
+    {
+      "name": "Baby Feeding Bottle & Accessories",
+      "url": "https://www.flipkart.com/baby-care/baby-feeding-bottle-accessories/pr?sid=kyh%2C9gj&q=baby+care",
+      "path": [
+        "Kids",
+        "Baby Feeding Bottle & Accessories"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:kyh,9gj"
+    },
+    {
+      "name": "Baby Feeding Utensils & Accessories",
+      "url": "https://www.flipkart.com/baby-care/baby-feeding-utensils-accessories/pr?sid=kyh%2Cdki&q=baby+care",
+      "path": [
+        "Kids",
+        "Baby Feeding Utensils & Accessories"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:kyh,dki"
+    },
+    {
+      "name": "Next",
+      "url": "https://www.flipkart.com/search?q=baby+care&page=2",
+      "path": [
+        "Kids",
+        "Next"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "search:baby care"
+    },
+    {
+      "name": "Winter Wear",
+      "url": "https://www.flipkart.com/clothing-and-accessories/winter-wear/pr?sid=clo%2Cqvw&q=kids+clothing",
+      "path": [
+        "Kids",
+        "Winter Wear"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:clo,qvw"
+    },
+    {
+      "name": "Topwear",
+      "url": "https://www.flipkart.com/clothing-and-accessories/topwear/pr?sid=clo%2Cash&q=kids+clothing",
+      "path": [
+        "Kids",
+        "Topwear"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:clo,ash"
+    },
+    {
+      "name": "Bottomwear",
+      "url": "https://www.flipkart.com/clothing-and-accessories/bottomwear/pr?sid=clo%2Cvua&q=kids+clothing",
+      "path": [
+        "Kids",
+        "Bottomwear"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:clo,vua"
+    },
+    {
+      "name": "Raincoats",
+      "url": "https://www.flipkart.com/clothing-and-accessories/raincoats/pr?sid=clo%2Cmz5&q=kids+clothing",
+      "path": [
+        "Kids",
+        "Raincoats"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:clo,mz5"
+    },
+    {
+      "name": "Dresses and Gowns",
+      "url": "https://www.flipkart.com/clothing-and-accessories/dresses-and-gowns/pr?sid=clo%2Codx&q=kids+clothing",
+      "path": [
+        "Kids",
+        "Dresses and Gowns"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:clo,odx"
+    },
+    {
+      "name": "Next",
+      "url": "https://www.flipkart.com/search?q=kids+clothing&page=2",
+      "path": [
+        "Kids",
+        "Next"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "search:kids clothing"
+    },
+    {
+      "name": "Footwear",
+      "url": "https://www.flipkart.com/footwear/pr?sid=osp&q=kids+footwear",
+      "path": [
+        "Kids",
+        "Footwear"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:osp"
+    },
+    {
+      "name": "Kids' & Infant Footwear",
+      "url": "https://www.flipkart.com/footwear/kids-infant-footwear/pr?sid=osp%2Cmba&q=kids+footwear",
+      "path": [
+        "Kids",
+        "Kids' & Infant Footwear"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:osp,mba"
+    },
+    {
+      "name": "Boys Footwear",
+      "url": "https://www.flipkart.com/footwear/kids-infant-footwear/boys-footwear/pr?sid=osp%2Cmba%2Co3t&q=kids+footwear",
+      "path": [
+        "Kids",
+        "Boys Footwear"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:osp,mba,o3t"
+    },
+    {
+      "name": "Girls Footwear",
+      "url": "https://www.flipkart.com/footwear/kids-infant-footwear/girls-footwear/pr?sid=osp%2Cmba%2Cerx&q=kids+footwear",
+      "path": [
+        "Kids",
+        "Girls Footwear"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:osp,mba,erx"
+    },
+    {
+      "name": "Infants",
+      "url": "https://www.flipkart.com/footwear/kids-infant-footwear/infants/pr?sid=osp%2Cmba%2Cqzr&q=kids+footwear",
+      "path": [
+        "Kids",
+        "Infants"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "sid:osp,mba,qzr"
+    },
+    {
+      "name": "Next",
+      "url": "https://www.flipkart.com/search?q=kids+footwear&page=2",
+      "path": [
+        "Kids",
+        "Next"
+      ],
+      "depth": 1,
+      "product_count": 0,
+      "subcategory_count": 0,
+      "is_leaf": true,
+      "subcategories": [],
+      "key": "search:kids footwear"
+    }
+  ]
+}
